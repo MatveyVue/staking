@@ -4,7 +4,7 @@
   <h2 class="nickname" style="color: white;">{{ user }}</h2>
 </div>
     
-<div style="margin-top: 55%" class="background">
+<div style="margin-top: 56%" class="background">
 <div class="psfixed">
 <RouterLink style="text-decoration: none;" to="/">
     <p class="staking">Staking</p>
