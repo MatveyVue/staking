@@ -1,5 +1,5 @@
 <template>
-<div class="header" style="text-align: center; margin-top: -10px">
+<div class="header" style="text-align: center; margin-top: -40px">
   <img class="profile" width="150px" src="https://github.com/MatveyVue/gift/blob/main/Anonim.png?raw=true">
   <h2 class="nickname" style="color: white;">{{ user }}</h2>
 </div>
