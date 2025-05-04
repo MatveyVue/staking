@@ -1,4 +1,4 @@
-<template>
+  <template>
 <div class="gift-container">
 <div v-for="(person, index) in calendar" :key="index" class="gifts">
     <img class="icon" :src="person.icon" alt="Calendar Icon" v-if="person.icon">
@@ -38,7 +38,7 @@ import { calendar, gcookie } from '../main/home.js';
 .name {
     font-family: Inter;
     color: white;
-    margin-left: 20px;
+    margin-left: 23px;
     margin-top: -2px;
 }
 </style>
