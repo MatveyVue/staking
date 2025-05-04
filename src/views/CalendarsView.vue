@@ -60,7 +60,6 @@ body {
   background-attachment: fixed;
   -ms-overflow-style: none;
   scrollbar-width: none;
-  overflow: none;
   margin: 0;
   font-family: Inter;
   touch-action: none;
